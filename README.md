@@ -44,7 +44,7 @@
 ## 代码思想简述
 ### SVM
 
-<img height="511" src="C:\Users\Vegio-admin\Desktop\SVM.png" width="814"/>
+[//]: # (<img height="511" src="C:\Users\Vegio-admin\Desktop\SVM.png" width="814"/>)
 
 
 
