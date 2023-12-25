@@ -174,11 +174,11 @@ class RF_Classifier:
         RF_Classifier.image_writer(project, transform, re_class, result_path + "\\" + "change_detection_RF.tif")
 if __name__ == "__main__":
     RF_Classifier.change_detection(
-                                    r"Python_Programming&RS_Image_Processing_3\back\image1.tif",
-                                    r"Python_Programming&RS_Image_Processing_3\back\label1.tif",
-                                    r"Python_Programming&RS_Image_Processing_3\back\image2.tif",
-                                    r"Python_Programming&RS_Image_Processing_3\back\label2.tif",
+                                    r"../RF&SVM_Data/image1.tif",
+                                    r"../RF&SVM_Data/label1.tif",
+                                    r"../RF&SVM_Data/image2.tif",
+                                    r"../RF&SVM_Data/label2.tif",
                                     ["植被", "水体", "建筑", "土地", "道路"],
-                                    r"Python_Programming&RS_Image_Processing_3",
+                                    r"../RF&SVM_Data",
                                     "pass"
                                     )

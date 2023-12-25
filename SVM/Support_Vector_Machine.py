@@ -180,6 +180,6 @@ if __name__ == "__main__":
                                     r"../RF&SVM_Data/image2.tif",
                                     r"../RF&SVM_Data/label2.tif",
                                     ["植被", "水体", "建筑", "土地", "道路"],
-                                    r"RF&SVM_Data",
+                                    r"../RF&SVM_Data",
                                     "pass"
                                     )
