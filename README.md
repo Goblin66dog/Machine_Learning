@@ -43,7 +43,8 @@
 
 ## 代码思想简述
 ### SVM
-![](C:\Users\Vegio-admin\Desktop\SVM.png)
+
+<img height="511" src="C:\Users\Vegio-admin\Desktop\SVM.png" width="814"/>
 
 
 
